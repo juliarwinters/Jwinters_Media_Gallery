@@ -72,10 +72,10 @@ nav a {
   padding-bottom: 56%;
 }
 .one .thumb {
-  background-image: url('../img/coffee.jpg');
+  background-image: url('');
 }
 .two .thumb {
-  background-image: url('../img/coffee.jpg');
+  background-image: url('');
 }
 /*--slideshow rules--*/
 .slideshow {
